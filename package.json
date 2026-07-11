@@ -1,0 +1,8 @@
+{
+  "name": "snap3d",
+  "version": "1.0.0",
+  "description": "One photo in, an editable 3D model out — spatial reasoning by Claude Fable 5",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hatchback car",
+  "parts": [
+    { "id": "body", "name": "body shell", "shape": "box", "dim": [3.2, 0.7, 1.5], "pos": [0, 0.75, 0], "rot": [0, 0, 0], "color": "#d63b2f" },
+    { "id": "cabin", "name": "cabin", "shape": "box", "dim": [1.7, 0.6, 1.35], "pos": [-0.15, 1.4, 0], "rot": [0, 0, 0], "color": "#c2332a" },
+    { "id": "windshield", "name": "windshield", "shape": "box", "dim": [0.08, 0.55, 1.25], "pos": [0.72, 1.38, 0], "rot": [0, 0, -28], "color": "#8fd3e8" },
+    { "id": "rear-glass", "name": "rear glass", "shape": "box", "dim": [0.08, 0.5, 1.25], "pos": [-1.02, 1.38, 0], "rot": [0, 0, 32], "color": "#8fd3e8" },
+    { "id": "wheel-fl", "name": "front-left wheel", "shape": "cylinder", "dim": [0.38, 0.38, 0.25], "pos": [1.05, 0.38, 0.78], "rot": [90, 0, 0], "color": "#1c1c22" },
+    { "id": "wheel-fr", "name": "front-right wheel", "shape": "cylinder", "dim": [0.38, 0.38, 0.25], "pos": [1.05, 0.38, -0.78], "rot": [90, 0, 0], "color": "#1c1c22" },
+    { "id": "wheel-rl", "name": "rear-left wheel", "shape": "cylinder", "dim": [0.38, 0.38, 0.25], "pos": [-1.05, 0.38, 0.78], "rot": [90, 0, 0], "color": "#1c1c22" },
+    { "id": "wheel-rr", "name": "rear-right wheel", "shape": "cylinder", "dim": [0.38, 0.38, 0.25], "pos": [-1.05, 0.38, -0.78], "rot": [90, 0, 0], "color": "#1c1c22" },
+    { "id": "hub-fl", "name": "front-left hub", "shape": "cylinder", "dim": [0.16, 0.16, 0.27], "pos": [1.05, 0.38, 0.78], "rot": [90, 0, 0], "color": "#9aa1ad" },
+    { "id": "hub-fr", "name": "front-right hub", "shape": "cylinder", "dim": [0.16, 0.16, 0.27], "pos": [1.05, 0.38, -0.78], "rot": [90, 0, 0], "color": "#9aa1ad" },
+    { "id": "hub-rl", "name": "rear-left hub", "shape": "cylinder", "dim": [0.16, 0.16, 0.27], "pos": [-1.05, 0.38, 0.78], "rot": [90, 0, 0], "color": "#9aa1ad" },
+    { "id": "hub-rr", "name": "rear-right hub", "shape": "cylinder", "dim": [0.16, 0.16, 0.27], "pos": [-1.05, 0.38, -0.78], "rot": [90, 0, 0], "color": "#9aa1ad" },
+    { "id": "headlight-l", "name": "left headlight", "shape": "sphere", "dim": [0.12], "pos": [1.6, 0.85, 0.5], "rot": [0, 0, 0], "color": "#fff3c4" },
+    { "id": "headlight-r", "name": "right headlight", "shape": "sphere", "dim": [0.12], "pos": [1.6, 0.85, -0.5], "rot": [0, 0, 0], "color": "#fff3c4" },
+    { "id": "taillight-l", "name": "left taillight", "shape": "sphere", "dim": [0.1], "pos": [-1.6, 0.9, 0.55], "rot": [0, 0, 0], "color": "#ff5a4d" },
+    { "id": "taillight-r", "name": "right taillight", "shape": "sphere", "dim": [0.1], "pos": [-1.6, 0.9, -0.55], "rot": [0, 0, 0], "color": "#ff5a4d" },
+    { "id": "bumper-f", "name": "front bumper", "shape": "box", "dim": [0.25, 0.28, 1.55], "pos": [1.62, 0.5, 0], "rot": [0, 0, 0], "color": "#2a2a31" },
+    { "id": "bumper-r", "name": "rear bumper", "shape": "box", "dim": [0.25, 0.28, 1.55], "pos": [-1.62, 0.5, 0], "rot": [0, 0, 0], "color": "#2a2a31" },
+    { "id": "grille", "name": "grille", "shape": "box", "dim": [0.06, 0.22, 0.8], "pos": [1.64, 0.82, 0], "rot": [0, 0, 0], "color": "#15151a" },
+    { "id": "mirror-l", "name": "left mirror", "shape": "box", "dim": [0.1, 0.12, 0.18], "pos": [0.65, 1.25, 0.82], "rot": [0, 0, 0], "color": "#c2332a" },
+    { "id": "mirror-r", "name": "right mirror", "shape": "box", "dim": [0.1, 0.12, 0.18], "pos": [0.65, 1.25, -0.82], "rot": [0, 0, 0], "color": "#c2332a" }
+  ]
+}
