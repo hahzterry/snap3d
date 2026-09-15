@@ -57,3 +57,7 @@ MIT · built by [Rohit Raj](https://rohitraj.tech) with Claude Fable 5
 I'm an **AI Consultant · Forward Deployed Engineer** — I embed with teams and ship AI to production: agents, MCP integrations, and LLM features, with evals proving they work.
 
 **→ [rohitraj.tech/en/hire](https://rohitraj.tech/en/hire)**
+
+---
+
+Built by [Rohit Raj](https://rohitraj.tech) — AI Consultant · [Forward Deployed Engineer](https://rohitraj.tech/services/forward-deployed-engineer). MCP or agent work: [MCP Integration Consultant](https://rohitraj.tech/services/mcp-integration-consultant).
